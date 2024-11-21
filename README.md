@@ -14,32 +14,32 @@
  
  3. ( No need Do this if you using heroku ) Upload <b>creds.json</b> File in to <b>[`ai_bot_sessions`](ai_bot_sessions)</b> Folder.
   Or put SESSION_ID to [`settings.js`](/settings.js#L31) <i> : Uploade or Put Session id ( After You Scan You Will be send ```creds.json``` file and ```Session id``` You Can Use Any One From it.)</i> <br> 
- 4. Deploy Using 
+ 4. Deploy Using
 
- [`Heroku`](md/deploy_on_heroku.md)  <i> : Click This For more Info </i>
- 
- [`Railway`](https://railway.app?referralCode=jDDNQq) <i> : If You Deploy on Railway Connect You Railway account to Your github repo after deploy. </i><br>
- [`Replit`](md/deploy_on_replit.md) <br>
- [`Termux`](md/deploy_on_termux.md)
- 
+[`Heroku`](md/deploy_on_heroku.md) <i> : Click This For more Info </i>
+
+[`Railway`](https://railway.app?referralCode=jDDNQq) <i> : If You Deploy on Railway Connect You Railway account to Your github repo after deploy. </i><br>
+[`Replit`](md/deploy_on_replit.md) <br>
+[`Termux`](md/deploy_on_termux.md)
+
 <br><br>
-[`CLICK TO GET API KEY`](https://platform.openai.com/docs/) <br> 
+[`CLICK TO GET API KEY`](https://platform.openai.com/docs/) <br>
 [`PASSWORD VIDEO`](https://youtube.com/shorts/EkLrmE3LDiE?feature=share)<br><br>
+
 ```
 IF you get api key put it .setapi < your api key>   |  ඔබ Api Key එක ලබාගත් පසු .setapi < ඔබගේ api key > ලෙස දමන්න.
 ```
- 
- 
- [`EXAMPLE How To Put Api Key`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/issues/2#issuecomment-1603656922) <i> : Click This if You Don't Know How to put your chatgot api key.</i>
 
- [`SCREEN SHOT BOT-CHAT`](https://telegra.ph/file/e67c72bd83f2132dc1803.jpg) <i> : Click This If You Want see Example Chat.</i>
+[`EXAMPLE How To Put Api Key`](https://github.com/DarkMakerofc/OpenAi-ChatGPT-Bot/issues/2#issuecomment-1603656922) <i> : Click This if You Don't Know How to put your chatgot api key.</i>
 
- ```
+[`SCREEN SHOT BOT-CHAT`](https://telegra.ph/file/e67c72bd83f2132dc1803.jpg) <i> : Click This If You Want see Example Chat.</i>
+
+```
 Version 2.0.0 Updates
 
-> Update Menu 
+> Update Menu
 > Add New Ai iamge generarter DALL-E
-> Add Restart Command 
+> Add Restart Command
 > Add ping Command
 
 🥵 Special
@@ -51,12 +51,13 @@ if you use on public mod you must put api key
 
 
 
-© 𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲 
+© 𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲
 
 
 ```
 
- ### [✅ JOIN WHATSAPP COMMUNITY GROUP](https://chat.whatsapp.com/CRfdRwMvQakEgbQ8rpqVKu)
+### [✅ JOIN WHATSAPP COMMUNITY GROUP](https://chat.whatsapp.com/CRfdRwMvQakEgbQ8rpqVKu)
+
 💗 Thanks For 💗<br>
 Baileys Web Api Owner<br>
 &<br>
